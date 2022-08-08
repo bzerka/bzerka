@@ -1,10 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=bzerkA.&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c73d8&height=180&section=header&text=bzerkA.&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+de+Castro;I'm+26+years+old;I'm+from+Brasil,+Rio+de+Janeiro;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c73d8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+de+Castro;I'm+26+years+old;I'm+from+Brazil,+Rio+de+Janeiro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bzerka&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzerka&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+&emsp;
+<div align="center"> 
+  <a href="https://instagram.com/igrzord" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igorcastro55@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-castro-trist%C3%A3o-2237131a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![snake gif](https://github.com/bzerka/bzerka/blob/output/github-contribution-grid-snake.svg)
@@ -33,4 +39,4 @@
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c73d8&height=120&section=footer"/>
